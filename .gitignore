@@ -1,0 +1,6 @@
+.obsidian/
+_private/
+.DS_Store
+__pycache__/
+.venv/
+.env
